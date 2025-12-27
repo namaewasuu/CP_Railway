@@ -10,6 +10,8 @@ ENV/
 .venv
 *.pkl
 *.pickle
+# Exception: backend model file should be committed
+!backend/trafik_modeli.pkl
 
 # Environment variables
 .env
