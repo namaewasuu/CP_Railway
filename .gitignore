@@ -50,6 +50,7 @@ logs/
 frontend/dist/
 frontend/build/
 
-# CSV data files (optional - uncomment if you don't want to commit data)
-# *.csv
+# CSV data files (too large for GitHub)
+*.csv
+ibb_traffic_2024_12.csv
 
